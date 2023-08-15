@@ -1,6 +1,6 @@
-dotenv==0.0.5
-openai==0.27.8
-openapi-schema-pydantic==1.2.4
-streamlit==1.25.0
-langchain==0.0.247
-langsmith==0.0.15
+python-dotenv
+openai
+openapi-schema-pydantic
+streamlit
+langchain
+langsmith
